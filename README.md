@@ -62,7 +62,6 @@ for article in found_articles:
     print(article.text)
         </code>
     </pre>
-
     <h2>Conclusion</h2>
     <p>By following the steps outlined in this README and using the provided code example, you can integrate Google Docs with Google Cloud Console to extract and search for technical keywords within documents. This can be useful for various applications, such as knowledge base management and content analysis.</p>
 </body>
