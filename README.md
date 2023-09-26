@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Google Docs Integration with Google Cloud Console</title>
+    Google Docs Integration with Google Cloud Console
 </head>
 <body>
     <h1>Google Docs Integration with Google Cloud Console</h1>
